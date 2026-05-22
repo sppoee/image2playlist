@@ -28,21 +28,25 @@ Song descriptions → CLIP Text Encoder → song embeddings
 
 ```
 image2playlist/
-├── src/
-│   ├── embeddings.py       # CLIP encoding for images and songs
-│   ├── recommender.py      # Cosine similarity + playlist generation
-│   ├── data_utils.py       # Spotify dataset loading & preprocessing
-│   └── description.py      # Convert audio features → text descriptions
 ├── data/
-│   └── README.md           # Instructions for downloading Spotify dataset
+│   ├── spotify_cleaned_final.csv   # Cleaned Spotify dataset (61,670 tracks)
+│   ├── song_index.csv              # Row-aligned song metadata for embeddings
+│   ├── song_embeddings.npy         # Precomputed CLIP text embeddings [generated locally]
+│   └── sample_images/              # Test images for pipeline evaluation
 ├── notebooks/
-│   ├── 01_exploration.ipynb     # Dataset EDA
-│   ├── 02_embedding_viz.ipynb   # t-SNE / UMAP visualization
-│   └── 03_evaluation.ipynb      # Evaluation metrics & user study results
-├── demo/
-│   └── app.py              # Gradio demo app
-├── tests/
-│   └── test_recommender.py
-├── requirements.txt
+│   ├── 01_data_cleaning.ipynb      # Data ingestion, cleaning, clip_metadata construction
+│   ├── 02_clip_setup.ipynb         # CLIP setup, song text embedding precomputation
+│   └── 03_vibe_mapping.ipynb       # Vibe taxonomy, image encoder, playlist generation
+├── .gitignore
 └── README.md
 ```
+
+> **Note:** `song_embeddings.npy` is excluded from git (>100MB). Run `02_clip_setup.ipynb` locally to generate it.
+
+---
+
+## 👥 Contributors
+
+- Anisa Dye
+- Sharon Lee
+- Szuyu Chi
