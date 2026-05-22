@@ -1,0 +1,14 @@
+# Generated artifacts — too large or reproducible from notebooks
+data/song_embeddings.npy
+data/dataset.csv
+data/-spotify-tracks-dataset.zip
+
+# macOS
+.DS_Store
+data/.DS_Store
+notebooks/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
