@@ -12,3 +12,11 @@ notebooks/.DS_Store
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# virtual environments
+.env
+venv/
+
+# ML/model cache
+.cache
+huggingface/
