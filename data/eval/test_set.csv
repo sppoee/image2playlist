@@ -1,0 +1,25 @@
+filename,ground_truth_vibe,notes,image_path
+coffee_shop_1.jpg,cozy_cafe,"warm indoor lighting, people working quietly",../data/eval/images/coffee_shop_1.jpg
+coffee_shop_2.jpg,cozy_cafe,coffee menu behind pastries and barista,../data/eval/images/coffee_shop_2.jpg
+snow_street_1.jpg,winter_snow,"snow falling, snow-covered cars",../data/eval/images/snow_street_1.jpg
+snow_street_2.jpg,winter_snow,"quiet street, fresh snow",../data/eval/images/snow_street_2.jpg
+beach_day_1.jpg,beach_summer,"bright sand, waves, woman reading",../data/eval/images/beach_day_1.jpg
+beach_day_2.jpg,beach_summer,beach blanket with soft sand and water,../data/eval/images/beach_day_2.jpg
+rainy_window_1.jpg,rainy_melancholic,"grey sky, people with umbrellas",../data/eval/images/rainy_window_1.jpg
+rainy_window_2.jpg,rainy_melancholic,"rainy park, gloomy and dark, wet park benches",../data/eval/images/rainy_window_2.jpg
+party_1.jpg,party_energetic,"club, crowded dancefloor, coloured lights",../data/eval/images/party_1.jpg
+party_2.jpg,party_energetic,"crowded house party, dim lights",../data/eval/images/party_2.jpg
+romantic_dinner_1.jpg,romantic_evening,candlelit table for two,../data/eval/images/romantic_dinner_1.jpg
+romantic_dinner_2.jpg,romantic_evening,"couple walking at night, park lights",../data/eval/images/romantic_dinner_2.jpg
+nature_trail_1.jpg,nature_peaceful,forest with meadow and mountain,../data/eval/images/nature_trail_1.jpg
+nature_trail_2.jpg,nature_peaceful,forest with wooden bridge,../data/eval/images/nature_trail_2.jpg
+city_hustle_1.jpg,urban_hustle,"busy intersection, midday",../data/eval/images/city_hustle_1.jpg
+city_hustle_2.jpg,urban_hustle,crowded subway platform,../data/eval/images/city_hustle_2.jpg
+late_night_drive_1.jpg,late_night_drive,"highway at night, city glow",../data/eval/images/late_night_drive_1.jpg
+late_night_drive_2.jpg,late_night_drive,"empty road, headlights, dark sky",../data/eval/images/late_night_drive_2.jpg
+morning_window_1.jpg,morning_calm,sunlight through curtains,../data/eval/images/morning_window_1.jpg
+morning_window_2.jpg,morning_calm,coffee mugs by a bright window at dawn,../data/eval/images/morning_window_2.jpg
+dark_moody_1.jpg,dark_moody,"empty street in crowded trees, deep shadows",../data/eval/images/dark_moody_1.jpg
+dark_moody_2.jpg,dark_moody,"dimly lit library, muted tones",../data/eval/images/dark_moody_2.jpg
+concert_1.jpg,festival_concert,outdoor festival,../data/eval/images/concert_1.jpg
+concert_2.jpg,festival_concert,crowd facing a lit stage,../data/eval/images/concert_2.jpg

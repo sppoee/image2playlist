@@ -1,0 +1,25 @@
+filename,ground_truth,predicted_vibe,correct,vibe_score,top_song,mean_sim
+coffee_shop_1.jpg,cozy_cafe,cozy_cafe,True,0.2714,Don't Know Why,0.2357
+coffee_shop_2.jpg,cozy_cafe,cozy_cafe,True,0.2634,be someone to never lose,0.2286
+snow_street_1.jpg,winter_snow,winter_snow,True,0.3201,I'll Meet You In The Morning,0.2449
+snow_street_2.jpg,winter_snow,winter_snow,True,0.3002,Life,0.2699
+beach_day_1.jpg,beach_summer,beach_summer,True,0.2802,O pato,0.2665
+beach_day_2.jpg,beach_summer,beach_summer,True,0.2719,A la Rorro Niño,0.2515
+rainy_window_1.jpg,rainy_melancholic,rainy_melancholic,True,0.2435,Hep Oturup Bekledim,0.2555
+rainy_window_2.jpg,rainy_melancholic,rainy_melancholic,True,0.2773,An Angry Thunderstorm,0.2678
+party_1.jpg,party_energetic,party_energetic,True,0.2932,Nuh Unruly,0.2943
+party_2.jpg,party_energetic,party_energetic,True,0.2976,Man A Gallis,0.266
+romantic_dinner_1.jpg,romantic_evening,romantic_evening,True,0.2691,Pink Matter,0.2394
+romantic_dinner_2.jpg,romantic_evening,rainy_melancholic,False,0.2472,Which Will,0.2602
+nature_trail_1.jpg,nature_peaceful,nature_peaceful,True,0.2743,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",0.2829
+nature_trail_2.jpg,nature_peaceful,nature_peaceful,True,0.2899,Dynamite - Acoustic,0.2675
+city_hustle_1.jpg,urban_hustle,urban_hustle,True,0.2633,"Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",0.2212
+city_hustle_2.jpg,urban_hustle,party_energetic,False,0.2075,Dream Machine - Kaskade Mix,0.224
+late_night_drive_1.jpg,late_night_drive,late_night_drive,True,0.3243,Boys Will Be Bugs,0.2818
+late_night_drive_2.jpg,late_night_drive,late_night_drive,True,0.32,今天沒大麻在身,0.2923
+morning_window_1.jpg,morning_calm,morning_calm,True,0.2998,Nindiya Re - Studio Version,0.2872
+morning_window_2.jpg,morning_calm,morning_calm,True,0.3006,PlantedInMyMind.Memo,0.2748
+dark_moody_1.jpg,dark_moody,dark_moody,True,0.2847,Thunderstorm in the Backyard,0.2859
+dark_moody_2.jpg,dark_moody,rainy_melancholic,False,0.26,Lost,0.2685
+concert_1.jpg,festival_concert,festival_concert,True,0.2711,Don’t Delete The Kisses,0.2813
+concert_2.jpg,festival_concert,party_energetic,False,0.2523,"Numb - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",0.2548
