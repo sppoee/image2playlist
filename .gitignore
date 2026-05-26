@@ -2,6 +2,8 @@
 data/song_embeddings.npy
 data/dataset.csv
 data/-spotify-tracks-dataset.zip
+notebooks/dataset*.csv
+notebooks/-spotify-tracks-dataset.zip
 
 # macOS
 .DS_Store
