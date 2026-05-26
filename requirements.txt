@@ -1,0 +1,20 @@
+# Core ML
+torch>=2.0.0
+git+https://github.com/openai/CLIP.git   # openai/clip — no PyPI package
+
+# Data
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image
+Pillow>=10.0.0
+pillow-heif>=0.13.0          # HEIC/HEIF support for iPhone photos
+
+# Spotify
+spotipy>=2.23.0
+
+# App
+streamlit>=1.30.0
+
+# Utilities
+python-dotenv>=1.0.0         # load .env for API credentials
