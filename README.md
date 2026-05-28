@@ -7,13 +7,13 @@
 
 ## 🎯 The Problem
 
-Have you ever been somewhere and wanted music that matched the moment — but didn't know what to search for?
+Have you ever been somewhere and wanted music that matched the moment but didn't know what to search for?
 
 Whether it's a cozy coffee shop, a late night drive, or a park picnic with friends, finding music that *fits* requires you to already know what you're looking for. **image2playlist** removes that barrier.
 
 > **Upload a photo of where you are → get a playlist that matches the vibe.**
 
-This exposes users to new songs, new genres, and new artists they'd never find on their own — bridging the gap between a visual moment and a musical one.
+This exposes users to new songs, new genres, and new artists they'd never find on their own, enriching their own musical catalogue.
 
 ---
 
