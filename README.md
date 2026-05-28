@@ -127,7 +127,6 @@ The image below shows the app detecting **Nature / Peaceful** from a park photo,
 | **Popularity vs. diversity tradeoff** | A strict popularity floor improves recognizability but reduces exposure to niche artists — finding the right threshold required iteration |
 | **No audio matching** | CLIP matches on vibe description, not actual audio. A song described as "melancholic" matches a rainy image even if the audio tempo is fast |
 | **Spotify API rate limits** | Enrichment calls to Spotify's API can hit rate limits quickly when processing at scale |
-| **Roman alphabet only** | Filtering for Latin-script titles removes non-English music that might otherwise be a great vibe match |
 
 ---
 
