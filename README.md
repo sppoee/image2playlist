@@ -56,6 +56,15 @@ image2playlist/
 
 The pipeline classifies images into one of **12 scene-based vibe categories**. Each vibe is defined by a natural-language probe text that CLIP encodes into a 512-d vector. Vibe detection works by comparing the image embedding to all 12 probe embeddings and selecting the closest match.
 
+| Vibe | Emoji | Vibe | Emoji |
+|------|-------|------|-------|
+| Cozy Cafe | ☕️ | Morning / Calm | 🌅 |
+| Winter / Snow | ❄️ | Dark / Moody | 🖤 |
+| Beach / Summer | 🏖️ | Festival / Concert | 🎸 |
+| Rainy / Melancholic | 🌧️ | Late Night Drive | 🌃 |
+| Party / Energetic | 🎉 | Urban / Hustle | 🏙️ |
+| Romantic Evening | 🕯️ | Nature / Peaceful | 🌿 |
+
 Vibes and their probes are defined in `src/helpers.py` — edits there are automatically reflected in both the notebooks and the Streamlit app.
 
 ---
